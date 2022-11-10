@@ -1,0 +1,70 @@
+* {
+  margin: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url(/imagens/Blue_rays_vector_4K_dark_background_2560x1600.jpg);
+}
+
+main {
+  display: flex;
+}
+
+
+#sec1 {
+  width:60vw;
+}
+
+#sec2 {
+  background-color: white;
+  padding: 30px;
+  height: 100vh;
+  width: 35vw;
+  margin-right: 6.5em;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.txt2 {
+  margin-top: 2em;
+}
+
+h2 {
+  margin-bottom: 9px;
+}
+
+
+
+form {
+  margin-left: 3.5em;
+margin-right: 3.5em;
+margin-top: 3rem;
+}
+
+input {
+  margin: 7px;
+  height: 45px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.dados-incorretos {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 6px;
+  /*display: none;
+*/}
+
+
+.botao {
+  margin-top: 2em;
+  width: 250px;
+  height: 45px;
+  background-color: rgb(15, 79, 169);
+  border: none;
+  border-radius: 10px;
+}

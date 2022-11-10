@@ -1,0 +1,117 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: 0px;
+  text-decoration: none;
+}
+
+body {
+  background-color: #2474A6;
+}
+
+#main {
+  display: flex;
+}
+
+.contador {
+  text-align: center;
+}
+
+.logo {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5ED7F2;
+  text-shadow: 0.1em 0.1em 0.2em black
+}
+
+#header {
+  display: flex;
+background-color: #023859;
+height: 40px;
+align-items: center;
+justify-content: center;
+}
+
+
+#burguer {
+  cursor: pointer;
+  font-size: 40px;
+}
+
+
+h3 {
+  color: #5ED7F2;
+  font-family: Arial, Helvetica, sans-serif;
+margin-top: 1em;
+}
+
+.insta {
+  color:  rgb(254, 1, 106 ) ;
+}
+
+ul > p {
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+menu {
+  background-color: #023859;
+  border-radius: 10px;
+  padding: 10px;
+  display: none;
+}
+
+ul> h2 {
+  font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 1em;
+color:#5ED7F2;
+text-shadow: 3px 2px 5px black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #011526;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+  margin: 5px;
+}
+
+#sec2 {
+  display: flex;
+  /*margin-left: 9em;*/
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.musicas {
+  width: 300px;
+  height: 180px;
+  margin-left: 1em;
+  margin-bottom: 4.5em;
+  margin-top: 2em;
+}
+
+audio {
+
+}
+
+.descriçao {
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: bolder;
+text-align: center;
+margin: 7px;
+}
